@@ -11,20 +11,74 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>ICT4D Tanzania</title>
-      <link>http://isagah.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Framework for Designing M-government Services in Developing Countries</title>
+      <link>http://isagah.github.io/publication/dgo_2018/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://isagah.github.io/project/deep-learning/</guid>
+      <guid>http://isagah.github.io/publication/dgo_2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>http://isagah.github.io/publication/dgo_2018/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <title>MU-Vliruos Project-Zone IT 2.0</title>
+      <link>http://isagah.github.io/project/mu--vliruos-project/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://isagah.github.io/publication/dgo_2018/</guid>
+      <guid>http://isagah.github.io/project/mu--vliruos-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing Requirements of M-Government Services: Empirical Study from Designers&#39; Perspectives</title>
+      <link>http://isagah.github.io/publication/ice_gov2018/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://isagah.github.io/publication/ice_gov2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Government Applications: Challenges and Needs for a Comprehensive Design Approach</title>
+      <link>http://isagah.github.io/publication/icegov_2017/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://isagah.github.io/publication/icegov_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust in e-participation</title>
+      <link>http://isagah.github.io/talk/trust_in_eparticipation/</link>
+      <pubDate>Sun, 01 Jan 2017 09:00:00 +0100</pubDate>
+      
+      <guid>http://isagah.github.io/talk/trust_in_eparticipation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-content presentation</title>
+      <link>http://isagah.github.io/talk/e_content/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://isagah.github.io/talk/e_content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-participation seminar</title>
+      <link>http://isagah.github.io/talk/seminar_epart/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://isagah.github.io/talk/seminar_epart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Mobile Participation: A case Study of iCitizen, Buycott and USHAHIDI</title>
+      <link>http://isagah.github.io/publication/egov_2016/</link>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://isagah.github.io/publication/egov_2016/</guid>
       <description></description>
     </item>
     

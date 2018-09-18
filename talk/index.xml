@@ -12,5 +12,32 @@
 	<atom:link href="http://isagah.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Trust in e-participation</title>
+      <link>http://isagah.github.io/talk/trust_in_eparticipation/</link>
+      <pubDate>Sun, 01 Jan 2017 09:00:00 +0100</pubDate>
+      
+      <guid>http://isagah.github.io/talk/trust_in_eparticipation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-content presentation</title>
+      <link>http://isagah.github.io/talk/e_content/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://isagah.github.io/talk/e_content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-participation seminar</title>
+      <link>http://isagah.github.io/talk/seminar_epart/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://isagah.github.io/talk/seminar_epart/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
