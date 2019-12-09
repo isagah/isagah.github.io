@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="http://isagah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Artificial Intelligence</title>
+      <link>http://isagah.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0300</pubDate>
+      
+      <guid>http://isagah.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ICT4D</title>
       <link>http://isagah.github.io/tags/ict4d/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/tags/ict4d/</guid>
       <description></description>

@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="http://isagah.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Recommendations for M-Government Implementation in Developing Countries: Lessons Learned from the Practitioners </title>
+      <link>http://isagah.github.io/publication/ict4d_2019/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>http://isagah.github.io/publication/ict4d_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Framework for Designing M-government Services in Developing Countries</title>
       <link>http://isagah.github.io/publication/dgo_2018/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/publication/dgo_2018/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>Addressing Requirements of M-Government Services: Empirical Study from Designers&#39; Perspectives</title>
       <link>http://isagah.github.io/publication/ice_gov2018/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/publication/ice_gov2018/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>Mobile Government Applications: Challenges and Needs for a Comprehensive Design Approach</title>
       <link>http://isagah.github.io/publication/icegov_2017/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/publication/icegov_2017/</guid>
       <description></description>
@@ -42,7 +51,7 @@
     <item>
       <title>Assessing Mobile Participation: A case Study of iCitizen, Buycott and USHAHIDI</title>
       <link>http://isagah.github.io/publication/egov_2016/</link>
-      <pubDate>Mon, 05 Sep 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/publication/egov_2016/</guid>
       <description></description>

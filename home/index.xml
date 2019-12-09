@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="http://isagah.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>http://isagah.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,17 +24,17 @@
     <item>
       <title></title>
       <link>http://isagah.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/about/</guid>
-      <description>Biography I am a research analyst enthusiast focused on designing information systems. I enjoy solving problems using analytical skills and design digital solutions to address challenges faced in organizations. I have skills in information systems analysis and design and competent in different methods of analysis and evaluation as well as impact assessment. Also, I have good command of design research methods, enterprise architecture frameworks and requirement engineering methods.
-In my PhD research, I focused on the design of mobile applications for delivering public services.</description>
+      <description>I am a research analyst enthusiast about solving complex problems using analytical skills and deploying digital technologies to address organizational and community challenges.
+Currently, I am researching the transformation of AI in Africa. I want to help AI practitioners in Tanzania and Africa to determine factors that will contribute to transforming our local communities through the technology, and guide them in the implementation process. My goal is to promote the design and use of AI for social good suitable for our context.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
       <link>http://isagah.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/publications_selected/</guid>
       <description></description>
@@ -50,9 +50,9 @@ In my PhD research, I focused on the design of mobile applications for deliverin
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>http://isagah.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/publications/</guid>
       <description></description>
@@ -61,7 +61,7 @@ In my PhD research, I focused on the design of mobile applications for deliverin
     <item>
       <title>Selected Talks</title>
       <link>http://isagah.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/talks_selected/</guid>
       <description></description>
@@ -70,16 +70,16 @@ In my PhD research, I focused on the design of mobile applications for deliverin
     <item>
       <title>Workshop &amp; Seminar</title>
       <link>http://isagah.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent Posts</title>
+      <title>Digital Technologies in Tanzania</title>
       <link>http://isagah.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/posts/</guid>
       <description></description>
@@ -88,7 +88,7 @@ In my PhD research, I focused on the design of mobile applications for deliverin
     <item>
       <title>Projects</title>
       <link>http://isagah.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/projects/</guid>
       <description></description>
@@ -97,7 +97,7 @@ In my PhD research, I focused on the design of mobile applications for deliverin
     <item>
       <title>Custom Section</title>
       <link>http://isagah.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -107,7 +107,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Tags</title>
       <link>http://isagah.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/tags/</guid>
       <description></description>
@@ -116,7 +116,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Search</title>
       <link>http://isagah.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/search/</guid>
       <description></description>
@@ -125,7 +125,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Contact</title>
       <link>http://isagah.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>http://isagah.github.io/home/contact/</guid>
       <description></description>
